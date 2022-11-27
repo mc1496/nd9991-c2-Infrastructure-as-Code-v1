@@ -1,0 +1,30 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "YXAR"
+	},
+	{
+		"ParameterKey": "DBInstanceID",
+		"ParameterValue": "XamdBId"
+	},
+	{
+		"ParameterKey": "DBName",
+		"ParameterValue": "XamdBName"
+	},
+	{
+		"ParameterKey": "DBInstanceClass",
+		"ParameterValue": "db.t2.small"
+	},
+	{
+		"ParameterKey": "DBAllocatedStorage",
+		"ParameterValue": "20"
+	},
+	{
+		"ParameterKey": "DBUsername",
+		"ParameterValue": "admin"
+	},
+	{
+		"ParameterKey": "DBPassword",
+		"ParameterValue": "admin1234"
+	}
+]
